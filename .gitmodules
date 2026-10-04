@@ -1,0 +1,9 @@
+[submodule "insitu"]
+	path = insitu
+	url = https://github.com/puehringerfiona/insitu.git
+[submodule "eo_data"]
+	path = eo_data
+	url = https://github.com/puehringerfiona/eo_data.git
+[submodule "validation_analysis"]
+	path = validation_analysis
+	url = https://github.com/puehringerfiona/validation_analysis.git
